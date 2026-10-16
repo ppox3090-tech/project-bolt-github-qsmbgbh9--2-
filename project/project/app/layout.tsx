@@ -1,4 +1,5 @@
 import './globals.css';
+import 'leaflet/dist/leaflet.css';
 import type { Metadata } from 'next';
 import { Noto_Sans_Thai } from 'next/font/google';
 
